@@ -2,10 +2,9 @@
 ------
 # Summary
 
-- [webview]
-	- [webview长按闪退]
+	- webview长按闪退
 
-	### 1.[crash one](/webview/android_webview_crash_one.md) [简述](/webview/android_webview_crash_short.md)
+	### 1.[简述](/webview/android_webview_crash_short.md) --- [完整 crash log](/webview/android_webview_crash_one.md) 
 
 	#### 报告机型
 	```
